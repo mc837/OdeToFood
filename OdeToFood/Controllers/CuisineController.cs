@@ -1,0 +1,17 @@
+﻿using System.Web.Mvc;
+
+namespace OdeToFood.Controllers
+{
+    public class CuisineController : Controller
+    {
+        //
+        // GET: /Cuisine/
+
+        public ActionResult Search(string name)
+        {
+            var message = Server.HtmlEncode(name);
+            return Content(message);
+        }
+
+    }
+}
