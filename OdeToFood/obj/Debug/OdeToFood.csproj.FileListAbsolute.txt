@@ -83,3 +83,5 @@ C:\Dev\OdeToFood\OdeToFood\bin\zh-Hant\System.Spatial.resources.dll
 C:\Dev\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
 C:\Dev\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
 C:\Dev\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
+C:\Dev\OdeToFood\OdeToFood\obj\Debug\OdeToFood.Migrations.InitialCreate.resources
+C:\Dev\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csproj.GenerateResource.Cache
